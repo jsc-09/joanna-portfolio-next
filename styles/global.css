@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+html,
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 36px;
+}
